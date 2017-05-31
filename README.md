@@ -1,6 +1,6 @@
 # Minimum Spanning Trees
 
-Institution: Instituto Superior Técnico - Universidade de Lisboa
+Institution: Instituto Superior TÃ©cnico - Universidade de Lisboa
 Course: Computer Science and Engineering (LEIC)
 Academic year: 2016-2017
 
@@ -9,6 +9,7 @@ Authors: Francisco Barros & Rafael Ribeiro
 Subject: Analysis and Synthesis of Algorithms (2nd year, 2nd semester, 2nd project)
 
 Project details:
+
 	* Objective: Construct the cheapest possible grid that connects N cities using both roads and airports
 	* Implentation in: C++  
 	*
