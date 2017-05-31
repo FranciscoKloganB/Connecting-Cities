@@ -31,4 +31,3 @@ Project details:
 	* The output may be one of the following:
 	* - "Insuficiente" (Insufficient): Should the given input not allow the connection of all the cities, because there are missing roads or airports;
 	* - A line expressing the total cost and another line with the number of airports and roads that were used to create the minimum spanning tree.
-
